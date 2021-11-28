@@ -14,7 +14,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "storybook": "start-storybook -p 6006 -s public",
+    "storybook": "start-storybook -p 6006 -s public"
   },
   "eslintConfig": {
     "extends": [
